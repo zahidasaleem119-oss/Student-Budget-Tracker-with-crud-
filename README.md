@@ -58,15 +58,15 @@ WebProject_[YourRollNo]/
 
 ### 1. User Panel Interface
 * **Main Dashboard Layout:** Displays interactive counting metrics for monitoring overall financial status.
-    ![User Panel Overview](user-panel.png)
+    ![User Panel Overview](user.png)
 * **Transaction Recording Form:** Shows the formatted transaction submission section equipped with inline error validation hooks.
-    ![Add Transaction Form](add-transaction.png)
+    ![Add Transaction Form](add.png)
 
 ---
 
 ### 2. Admin Panel Interface
 * **Analytics & Management Dashboard:** Displays real-time data table records combined with visual categorical charts.
-    ![Admin Dashboard Panel](admin-panel.png)
+    ![Admin Dashboard Panel](panel.png)
 * **Inline Record Modification:** Displays the interactive modal dialog populated with existing transaction properties for database editing.
     ![Edit Entry Modal Window](edit.png)
 * **Asynchronous Deletion Protocol:** Shows the active confirmation modal securing database records against accidental removals.
