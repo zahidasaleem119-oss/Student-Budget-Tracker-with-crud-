@@ -1,0 +1,86 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Monthly Pocket Money",
+      "amount": 5000,
+      "date": "2026-06-01",
+      "type": "income",
+      "category": "Pocket Money",
+      "createdAt": "2026-06-01T08:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "description": "College Canteen Lunch",
+      "amount": 120,
+      "date": "2026-06-02",
+      "type": "expense",
+      "category": "Food",
+      "createdAt": "2026-06-02T12:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "description": "Bus Pass Renewal",
+      "amount": 800,
+      "date": "2026-06-03",
+      "type": "expense",
+      "category": "Transport",
+      "createdAt": "2026-06-03T09:15:00.000Z"
+    },
+    {
+      "id": "4",
+      "description": "Freelance Web Design Project",
+      "amount": 3500,
+      "date": "2026-06-04",
+      "type": "income",
+      "category": "Freelancing",
+      "createdAt": "2026-06-04T16:45:00.000Z"
+    },
+    {
+      "id": "5",
+      "description": "Engineering Textbooks",
+      "amount": 650,
+      "date": "2026-06-05",
+      "type": "expense",
+      "category": "Education",
+      "createdAt": "2026-06-05T11:20:00.000Z"
+    },
+    {
+      "id": "6",
+      "description": "Monthly WiFi Bill",
+      "amount": 499,
+      "date": "2026-06-06",
+      "type": "expense",
+      "category": "Internet",
+      "createdAt": "2026-06-06T10:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "description": "Part-time Tutoring",
+      "amount": 2000,
+      "date": "2026-06-07",
+      "type": "income",
+      "category": "Part-Time Job",
+      "createdAt": "2026-06-07T18:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "description": "Movie Night with Friends",
+      "amount": 350,
+      "date": "2026-06-08",
+      "type": "expense",
+      "category": "Entertainment",
+      "createdAt": "2026-06-08T20:30:00.000Z"
+    },
+    {
+      "description": "Hostel Fee",
+      "amount": 5000,
+      "date": "2026-06-05",
+      "type": "expense",
+      "category": "Hostel/Room Rent",
+      "createdAt": "2026-06-04T03:53:38.078Z",
+      "id": "syMtvBt-0z8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
