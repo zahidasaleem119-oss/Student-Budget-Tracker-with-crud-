@@ -80,6 +80,15 @@
       "category": "Hostel/Room Rent",
       "createdAt": "2026-06-04T03:53:38.078Z",
       "id": "syMtvBt-0z8"
+    },
+    {
+      "description": "text books of science",
+      "amount": 600,
+      "date": "2026-06-04",
+      "type": "expense",
+      "category": "Education",
+      "createdAt": "2026-06-04T07:09:23.427Z",
+      "id": "_EVpYj6xt9E"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

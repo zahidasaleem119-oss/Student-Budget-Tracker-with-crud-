@@ -54,14 +54,20 @@ WebProject_[YourRollNo]/
 ├── db.json          # Mock REST JSON database structure 
 └── README.md        # Comprehensive implementation and setup guide
 
-## Screenshots
-*(Instructor Note: Replace these placeholders with actual screenshots of the application before final submission)*
+## 📸 Interface Preview (Screenshots)
 
-### User Dashboard & Task Creation
-![Student Budget Tracker User Panel Overview](user-panel.png)
-![create Transaction User Panel Form](add-transaction.png)
+### 1. User Panel Interface
+* **Main Dashboard Layout:** Displays interactive counting metrics for monitoring overall financial status.
+    ![User Panel Overview](user-panel.png)
+* **Transaction Recording Form:** Shows the formatted transaction submission section equipped with inline error validation hooks.
+    ![Add Transaction Form](add-transaction.png)
 
-### Admin Panel Dashboard
-![Budget Tracker  Admin Panel Overview](admin-panel.png)
-![update transaction  Admin Panel Overview](edit.png)
-![Delete Transaction  Admin Panel Overview](delete.png)
+---
+
+### 2. Admin Panel Interface
+* **Analytics & Management Dashboard:** Displays real-time data table records combined with visual categorical charts.
+    ![Admin Dashboard Panel](admin-panel.png)
+* **Inline Record Modification:** Displays the interactive modal dialog populated with existing transaction properties for database editing.
+    ![Edit Entry Modal Window](edit.png)
+* **Asynchronous Deletion Protocol:** Shows the active confirmation modal securing database records against accidental removals.
+    ![Delete Confirmation System](delete.png)
